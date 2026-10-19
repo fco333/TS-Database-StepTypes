@@ -27441,7 +27441,7 @@ RunState.Thread.RunTimeVariables.NI_TestStand_DBStepTemp.Result
 											</Step>
 										</value>
 										<value>
-											<Step typename='NI_OpenDatabase' xsi:type='NI_OpenDatabase' name='Open Database MS AccessOCT19 1140'>
+											<Step typename='NI_OpenDatabase' xsi:type='NI_OpenDatabase' name='Open Database MS Access Modified'>
 												<comment>Open database and SQL statement handles</comment>
 												<subprops>
 													<TS classname='Obj'>
