@@ -25160,7 +25160,7 @@ RunState.Thread.RunTimeVariables.NI_TestStand_DBStepTemp.Result
 								<Setup classname='Objs' valueflags='4194304'>
 									<value lbound='[0]' ubound='[6]'>
 										<value>
-											<Step typename='Statement' xsi:type='Statement' name='Find the Database MDB file'>
+											<Step typename='Statement' xsi:type='Statement' name='Find the Database MDB file mm'>
 												<subprops>
 													<TS classname='Obj'>
 														<subprops>
